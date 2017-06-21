@@ -13,5 +13,7 @@ import 'bootstrap/dist/js/bootstrap';
 console.log("HELLO FROM WEBPACK!");
 
 $(function(){
-  console.log("hello from jquery");
+  console.log("HELLO FROM JQUERY");
 })
+
+import '../app';
